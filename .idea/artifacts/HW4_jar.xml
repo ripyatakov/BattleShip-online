@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HW4:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HW4_jar</output-path>
+    <root id="archive" name="HW4.jar">
+      <element id="module-output" name="HW4_updated" />
+    </root>
+  </artifact>
+</component>
